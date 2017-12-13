@@ -1,0 +1,14 @@
+<templateSet group="TypeScript">
+  <template name="it" value="it('$DESC$', () =&gt; {&#10;  $END$&#10;});" description="jasmine unit test &quot;it&quot; method" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="des" value="describe('$DESC$', () =&gt; {&#10;  $END$&#10;});" description="jasmin unit test &quot;describe&quot; method" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
