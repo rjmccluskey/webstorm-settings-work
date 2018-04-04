@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -23,6 +24,7 @@
       <mask>!*.d.ts</mask>
       <mask>*.src.js</mask>
       <mask>*.angular2*</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
