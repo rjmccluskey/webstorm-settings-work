@@ -5,5 +5,5 @@
   <component name="EditorSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" />
+  <component name="LiveEditOptions" useJBChromeExtension="true" />
 </application>
