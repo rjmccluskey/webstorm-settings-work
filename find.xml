@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*package-lock*" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +20,6 @@
     <mask>*.state*</mask>
     <mask>!*.spec.*</mask>
     <mask>!*.spec*</mask>
-    <mask>*.scss</mask>
     <mask>*.module.ts</mask>
     <mask>!*.spec.ts</mask>
     <mask>*resolver.service.ts</mask>
@@ -28,5 +27,6 @@
     <mask>*spec.ts</mask>
     <mask>!*.spec.ts,!*.js</mask>
     <mask>!*package-lock*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
