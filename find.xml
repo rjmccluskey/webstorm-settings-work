@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.spec.ts, !*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,5 +32,6 @@
     <mask>!*package-lock.json</mask>
     <mask>!*package-lock.json,!*.spec.ts</mask>
     <mask>!*.spec.ts</mask>
+    <mask>!*.spec.ts, !*.yml</mask>
   </component>
 </application>
